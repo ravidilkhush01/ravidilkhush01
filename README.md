@@ -19,6 +19,7 @@
 🌱 Currently Learning
 
 - Data Structures & Algorithms
+- Python
 - Next.js
 - React
 - Firebase
