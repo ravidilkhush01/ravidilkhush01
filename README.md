@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Ravi%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Google%20Software%20Engineer%20Aspirant&descAlignY=60"/>
-
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Ravi Kumar Banner">
+</p>
 # Hi 👋 I'm Ravi Kumar
 
 ### 🚀 Google Software Engineer Aspirant | Full Stack Developer | AI Enthusiast
