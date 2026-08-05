@@ -85,8 +85,6 @@ Become a Software Engineer at Google.
 
 <img src="https://skillicons.dev/icons?i=cpp"/>
 
-<img src="https://skillicons.dev/icons?i=java"/>
-
 <img src="https://skillicons.dev/icons?i=python"/>
 
 <img src="https://skillicons.dev/icons?i=js"/>
@@ -104,8 +102,6 @@ Become a Software Engineer at Google.
 <img src="https://skillicons.dev/icons?i=react"/>
 
 <img src="https://skillicons.dev/icons?i=nextjs"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
 
 </p>
 
