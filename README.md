@@ -1,16 +1,158 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ravidilkhush01/ravidilkhush01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Ravi%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Google%20Software%20Engineer%20Aspirant&descAlignY=60"/>
 
-Here are some ideas to get you started:
+# Hi 👋 I'm Ravi Kumar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Google Software Engineer Aspirant | Full Stack Developer | AI Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;B.Tech+CSE+Student;Learning+DSA+%7C+Next.js+%7C+AI;Future+Google+Software+Engineer"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 B.Tech Computer Science Student
+
+🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Next.js
+- React
+- Firebase
+- Artificial Intelligence
+
+💡 Interested In
+
+- Full Stack Development
+- Artificial Intelligence
+- Competitive Programming
+- Open Source
+
+🎯 Goal
+
+Become a Software Engineer at Google.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/ravidilkhush01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ravidilkhush01&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ravidilkhush01&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravidilkhush01&layout=compact&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophy
+
+![](https://github-profile-trophy.vercel.app/?username=ravidilkhush01&theme=tokyonight&row=2&column=4)
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=ravidilkhush01&theme=tokyo-night)
+
+---
+
+# 💻 Featured Projects
+
+⭐ Google SDE AI Mentor
+
+⭐ Portfolio Website
+
+⭐ Weather App
+
+⭐ DSA Repository
+
+⭐ AI Interview Platform
+
+⭐ Notes Management System
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+</div>
