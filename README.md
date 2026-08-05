@@ -3,9 +3,8 @@
 <p align="center">
   <img src="./banner.png" width="100%" alt="Ravi Kumar Banner">
 </p>
-# Hi 👋 I'm Ravi Kumar
-
-### 🚀 Google Software Engineer Aspirant | Full Stack Developer | AI Enthusiast
+<h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
+<h3 align="center">🚀 Google Software Engineer Aspirant | Full Stack Developer | AI Enthusiast</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;B.Tech+CSE+Student;Learning+DSA+%7C+Next.js+%7C+AI;Future+Google+Software+Engineer"/>
 
