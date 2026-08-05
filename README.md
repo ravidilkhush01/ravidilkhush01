@@ -171,14 +171,6 @@ Learning  : DSA | AI | Next.js | React | Python
 ---
 <!-- ========================= GITHUB DASHBOARD ========================= -->
 
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ravidilkhush01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravidilkhush01&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -192,14 +184,6 @@ Learning  : DSA | AI | Next.js | React | Python
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravidilkhush01&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ravidilkhush01&theme=tokyonight&no-frame=true&row=2&column=3"/>
 </p>
 
 ---
