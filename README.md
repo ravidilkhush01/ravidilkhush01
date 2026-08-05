@@ -58,9 +58,10 @@ Learning  : DSA | AI | Next.js | React | Python
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="www.linkedin.com/in/ravidilkhush">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/ravidilkhush/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
 
 <a href="mailto:subodhdilkhushsingh@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
