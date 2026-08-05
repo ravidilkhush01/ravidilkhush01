@@ -12,6 +12,21 @@
 <img src="https://komarev.com/ghpvc/?username=ravidilkhush01&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
+<p align="center">
+
+<a href="https://github.com/ravidilkhush01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/ravidilkhush">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:subodhdilkhushsingh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 </div>
 
 ---
