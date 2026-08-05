@@ -132,6 +132,7 @@ Learning  : DSA | AI | Next.js | React | Python
 <img src="https://img.shields.io/badge/System%20Design-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Open%20Source-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-green?style=for-the-badge"/>
 </p>
 
 </div>
