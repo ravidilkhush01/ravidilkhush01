@@ -4,15 +4,13 @@
   <img src="./banner.png" width="100%" alt="Ravi Kumar Banner">
 </p>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Ravi+Kumar;Google+Software+Engineer+Aspirant;Full+Stack+Developer;Learning+DSA+%7C+AI+%7C+Next.js;Welcome+to+my+GitHub+Profile!" />
-
 </div>
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
 <h3 align="center">🚀 Google Software Engineer Aspirant | Full Stack Developer | AI Enthusiast</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;B.Tech+CSE+Student;Learning+DSA+%7C+Next.js+%7C+AI;Future+Google+Software+Engineer"/>
+<img src="https://komarev.com/ghpvc/?username=ravidilkhush01&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 </div>
 
